@@ -1,0 +1,7 @@
+/* Custom code goes here - paste your css code below in line 8 */
+
+a.product-flags-plist span.product-flag.new,
+#product #content .product-flags .product-flag.new {
+color: #000;
+}
+
